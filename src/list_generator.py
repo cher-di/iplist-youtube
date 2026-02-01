@@ -126,20 +126,21 @@ def read_ips(
 # download youtubeparsed
 
 
-def download_youtubeparsed():
+def download_youtubeparsed(path):
   url = 'https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/youtubeparsed'
-  download(url, '.youtubeparsed')
+  download(url, path)
 
 
 def get_coroutines(
   ipv4List: list[IPv4Address],
   ipv6List: list[IPv6Address],
-        ip_fetcher):
+        ip_fetcher,
+        filepath):
   # make a list of threads
   coroutines = []
 
   # open the youtubeparsed file
-  with open('.youtubeparsed', mode='r', encoding='utf-8') as f:
+  with open(filepath, mode='r', encoding='utf-8') as f:
 
     # for each url in the file
     for url in f.readlines():
@@ -193,13 +194,21 @@ async def main():
   previousIpv6s = len(ipv6List)
 
   # download youtubeparsed
-  download_youtubeparsed()
+  youtubeparsed_filepath = '.youtubeparsed'
+  download_youtubeparsed(youtubeparsed_filepath)
 
   # get ip fetcher
   ip_fetcher = get_ip_fetcher()
 
   # get coroutines
-  coroutines = get_coroutines(ipv4List, ipv6List, ip_fetcher)
+  coroutines = []
+  for domains_filepath in [
+    youtubeparsed_filepath,
+    constants.GOOGLEVIDEO_DOMAINS_PATH,
+  ]:
+    coroutines.extend(
+      get_coroutines(ipv4List, ipv6List, ip_fetcher, domains_filepath)
+    )
 
   # wait for coroutines to finish
   await asyncio.gather(*coroutines)

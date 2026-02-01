@@ -7,6 +7,7 @@ RUN python3 -m pip install -r requirements.txt
 
 COPY update_lists.sh ./
 COPY dns_resolvers.yml ./
+COPY youtube_search_queries.txt ./
 COPY src ./src
 
 ENTRYPOINT ["sh", "update_lists.sh"]

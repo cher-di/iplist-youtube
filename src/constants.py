@@ -10,5 +10,7 @@ CIDR6_LIST_PATH = LISTS_DIR / 'cidr6.txt'
 ROUTER_OS_LIST_PATH = LISTS_DIR / 'routeros.rsc'
 ROUTER_OS_V4_LIST_PATH = LISTS_DIR / 'routerosv4.rsc'
 ROUTER_OS_V6_LIST_PATH = LISTS_DIR / 'routerosv6.rsc'
+GOOGLEVIDEO_DOMAINS_PATH = LISTS_DIR / 'googlevideo_domains.txt'
 
 DNS_RESOLVER_LIST_PATH = Path('dns_resolvers.yml')
+YOUTUBE_SEARCH_QUERIES_PATH = Path('youtube_search_queries.txt')
