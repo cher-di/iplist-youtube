@@ -39,12 +39,15 @@ def main():
 
   cidr4 = makeCIDRRangesList(ipv4List)
   # for IPv6, a 64 bit mask is not that extensive
-  cidr6 = makeCIDRRangesList(ipv6List, 64)
+  # cidr6 = makeCIDRRangesList(ipv6List, 64)  # do not actually read list for IPv6
 
   with open(constants.CIDR4_LIST_PATH, mode='w', encoding='utf-8') as f:
 
     f.write('\n'.join(map(str, cidr4)) + '\n')
     print(f'Wrote {len(cidr4)} CIDR4 ranges to {constants.CIDR4_LIST_PATH}')
+
+  # do not actually write list for IPv6
+  return
 
   with open(constants.CIDR6_LIST_PATH, mode='w', encoding='utf-8') as f:
 
