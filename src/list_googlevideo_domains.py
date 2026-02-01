@@ -73,7 +73,13 @@ def main():
     new_domains = set()
     for query in queries:
         logging.info('Fetching googlevideo domains for "%s"', query)
-        search_results = get_youtube_search_results(query)
+        try:
+            search_results = get_youtube_search_results(query)
+        except Exception:
+            logging.exception(
+                'Failed to get youtube search results for "%s"', query
+            )
+            continue
         new_domains.update(URL_RE.findall(search_results))
 
         logging.info('Sleeping for %.2f before next query...', args.delay)
