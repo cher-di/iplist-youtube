@@ -107,6 +107,9 @@ def read_ips(
         if ip != '':
           print(f'{ip} is not a valid IPv4 address!')
 
+  # do no actually read IPv6 addresses
+  return list(ipv4Set), []
+
   with open(constants.IPv6_LIST_PATH, mode='r', encoding='utf-8') as f:
     for ip in f.readlines():
       ip = ip.strip()
@@ -172,6 +175,9 @@ def write_ips(ipv4List: list[IPv4Address], ipv6List: list[IPv6Address]):
   with open(constants.IPv4_LIST_PATH, mode='w', encoding='utf-8') as f:
 
     f.write('\n'.join(map(str, ipv4List)) + '\n')
+
+  # do not actually save IPv6 addresses
+  return
 
   with open(constants.IPv6_LIST_PATH, mode='w', encoding='utf-8') as f:
 
