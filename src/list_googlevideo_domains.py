@@ -25,6 +25,7 @@ def get_youtube_search_results(search_query: str) -> str:
     return requests.get(
         'https://www.youtube.com/results',
         params={'search_query': search_query},
+        timeout=5,
     ).text
 
 
