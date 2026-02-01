@@ -54,6 +54,12 @@ def get_ip_fetcher():
       if len(ips) > 0:
         dns_resolver_ips.append(choice(ips))
 
+    # Use only DNS servers from Yandex
+    dns_resolver_ips = [
+      ip for ip in dns_resolvers['Yandex.DNS']
+      if isinstance(ip_address(ip), IPv4Address)
+    ]
+
     # shuffle the list to possibly get more ips
     shuffle(dns_resolver_ips)
 
@@ -148,7 +154,8 @@ def get_coroutines(
 
       # make a thread for each fetch_ip call
       coroutines.append(ip_fetcher(url, 'A', ipv4List))
-      coroutines.append(ip_fetcher(url, 'AAAA', ipv6List))
+      # do not use IPv6 DNS servers
+      # coroutines.append(ip_fetcher(url, 'AAAA', ipv6List))
 
   return coroutines
 
