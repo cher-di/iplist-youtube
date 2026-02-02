@@ -1,9 +1,11 @@
 #!/bin/python3
 import asyncio
 from ipaddress import IPv4Address, IPv6Address, ip_address
+import itertools
 from os import getenv
 from random import choice, shuffle
 from socket import has_ipv6
+import time
 from urllib.request import urlretrieve as download
 
 from dns import asyncresolver
@@ -211,7 +213,9 @@ async def main():
     )
 
   # wait for coroutines to finish
-  await asyncio.gather(*coroutines)
+  for batch in itertools.batched(coroutines, 200):
+    await asyncio.gather(*batch)
+    time.sleep(2)
 
   # de-duplicate list entries
   ipv4List = list(set(ipv4List))
