@@ -327,6 +327,7 @@ rr15---sn-axq7sn7s.googlevideo.com
 rr15---sn-n8v7kn7e.googlevideo.com
 rr15---sn-n8v7kn7k.googlevideo.com
 rr15---sn-n8v7kn7l.googlevideo.com
+rr15---sn-n8v7kn7s.googlevideo.com
 rr15---sn-n8v7kn7z.googlevideo.com
 rr15---sn-n8v7kne6.googlevideo.com
 rr15---sn-n8v7kne7.googlevideo.com
@@ -582,6 +583,7 @@ rr2---sn-n8v7znly.googlevideo.com
 rr2---sn-n8v7zns6.googlevideo.com
 rr2---sn-n8v7zns7.googlevideo.com
 rr2---sn-n8v7znsd.googlevideo.com
+rr2---sn-n8v7znsk.googlevideo.com
 rr2---sn-n8v7znsr.googlevideo.com
 rr2---sn-n8v7znss.googlevideo.com
 rr2---sn-n8v7znsy.googlevideo.com
@@ -1174,6 +1176,7 @@ rr6---sn-n8v7kn7z.googlevideo.com
 rr6---sn-n8v7kne7.googlevideo.com
 rr6---sn-n8v7knel.googlevideo.com
 rr6---sn-n8v7knes.googlevideo.com
+rr6---sn-n8v7knez.googlevideo.com
 rr6---sn-n8v7sney.googlevideo.com
 rr6---sn-n8v7snl7.googlevideo.com
 rr6---sn-n8v7znlk.googlevideo.com
