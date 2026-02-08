@@ -1369,6 +1369,7 @@ rr4---sn-vgqsrn6y.googlevideo.com
 rr4---sn-vgqsrnd7.googlevideo.com
 rr4---sn-vgqsrnde.googlevideo.com
 rr4---sn-vgqsrndl.googlevideo.com
+rr4---sn-vgqsrnds.googlevideo.com
 rr5---sn-2gb7sn7r.googlevideo.com
 rr5---sn-2gb7sn7y.googlevideo.com
 rr5---sn-2gb7sne6.googlevideo.com
