@@ -176,6 +176,7 @@ rr1---sn-aj5go5-53.googlevideo.com
 rr1---sn-ajab55-55.googlevideo.com
 rr1---sn-ajaig5-5a.googlevideo.com
 rr1---sn-ajh0j5-55.googlevideo.com
+rr1---sn-ajixh5-55.googlevideo.com
 rr1---sn-ajnv45-5i.googlevideo.com
 rr1---sn-ajq0cc-5q.googlevideo.com
 rr1---sn-axq7sn76.googlevideo.com
@@ -1121,6 +1122,8 @@ rr3---sn-aj4g55-5w.googlevideo.com
 rr3---sn-aj5go5-53.googlevideo.com
 rr3---sn-ajab55-55.googlevideo.com
 rr3---sn-ajaig5-5a.googlevideo.com
+rr3---sn-ajaig5-5v.googlevideo.com
+rr3---sn-ajixh5-55.googlevideo.com
 rr3---sn-ajnv45-5i.googlevideo.com
 rr3---sn-axq7sn76.googlevideo.com
 rr3---sn-axq7sn7e.googlevideo.com
@@ -1454,6 +1457,7 @@ rr4---sn-aj4g55-5w.googlevideo.com
 rr4---sn-aj5go5-53.googlevideo.com
 rr4---sn-ajab55-55.googlevideo.com
 rr4---sn-ajaig5-5a.googlevideo.com
+rr4---sn-ajixh5-55.googlevideo.com
 rr4---sn-ajnv45-5i.googlevideo.com
 rr4---sn-ajq0cc-5q.googlevideo.com
 rr4---sn-axq7sn7s.googlevideo.com
