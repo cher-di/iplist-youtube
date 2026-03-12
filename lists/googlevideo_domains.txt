@@ -1,4 +1,5 @@
 rr1---sn-1gi7znes.googlevideo.com
+rr1---sn-1giz7n7l.googlevideo.com
 rr1---sn-25ge7nsd.googlevideo.com
 rr1---sn-25ge7nsk.googlevideo.com
 rr1---sn-25ge7nz6.googlevideo.com
@@ -1294,6 +1295,7 @@ rr3---sn-vgqsrnde.googlevideo.com
 rr3---sn-vgqsrndl.googlevideo.com
 rr3---sn-vgqsrnds.googlevideo.com
 rr4---sn-1gi7znes.googlevideo.com
+rr4---sn-1giz7n7l.googlevideo.com
 rr4---sn-25ge7nsd.googlevideo.com
 rr4---sn-25ge7nsk.googlevideo.com
 rr4---sn-25ge7nz6.googlevideo.com
