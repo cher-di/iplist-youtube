@@ -209,6 +209,7 @@ rr1---sn-f5f7lnld.googlevideo.com
 rr1---sn-f5f7lnly.googlevideo.com
 rr1---sn-f5fz7n7s.googlevideo.com
 rr1---sn-fpmoxu-bg0e.googlevideo.com
+rr1---sn-fpmoxu-bg0l.googlevideo.com
 rr1---sn-h0jeened.googlevideo.com
 rr1---sn-h0jeenek.googlevideo.com
 rr1---sn-h0jeener.googlevideo.com
@@ -906,6 +907,7 @@ rr2---sn-f5f7lnld.googlevideo.com
 rr2---sn-f5f7lnly.googlevideo.com
 rr2---sn-f5fz7n7s.googlevideo.com
 rr2---sn-fpmoxu-bg0e.googlevideo.com
+rr2---sn-fpmoxu-bg0l.googlevideo.com
 rr2---sn-h0jeened.googlevideo.com
 rr2---sn-h0jeenek.googlevideo.com
 rr2---sn-h0jeener.googlevideo.com
@@ -1279,6 +1281,7 @@ rr3---sn-f5f7lnl7.googlevideo.com
 rr3---sn-f5f7lnld.googlevideo.com
 rr3---sn-f5f7lnly.googlevideo.com
 rr3---sn-f5fz7n7s.googlevideo.com
+rr3---sn-fpmoxu-bg0l.googlevideo.com
 rr3---sn-h0jeened.googlevideo.com
 rr3---sn-h0jeenek.googlevideo.com
 rr3---sn-h0jeener.googlevideo.com
