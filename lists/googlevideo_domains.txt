@@ -1800,6 +1800,7 @@ rr4---sn-bg0e6ne6.googlevideo.com
 rr4---sn-bg0e6ne7.googlevideo.com
 rr4---sn-bg0e6ned.googlevideo.com
 rr4---sn-bg0e6nee.googlevideo.com
+rr4---sn-bg0e6nek.googlevideo.com
 rr4---sn-bg0e6nl7.googlevideo.com
 rr4---sn-bg0e6nle.googlevideo.com
 rr4---sn-bg0e6nll.googlevideo.com
@@ -2247,6 +2248,7 @@ rr5---sn-bg0s7nlr.googlevideo.com
 rr5---sn-bg0s7nls.googlevideo.com
 rr5---sn-bg0s7nly.googlevideo.com
 rr5---sn-bg0s7ns6.googlevideo.com
+rr5---sn-bg0s7ns7.googlevideo.com
 rr5---sn-bg0s7nse.googlevideo.com
 rr5---sn-bg0s7nsl.googlevideo.com
 rr5---sn-bpb5ivnuov-ug4e.googlevideo.com
