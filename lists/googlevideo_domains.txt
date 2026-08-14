@@ -374,6 +374,7 @@ rr1---sn-p5qs7nzr.googlevideo.com
 rr1---sn-p5qs7nzy.googlevideo.com
 rr1---sn-pmcg-bg0d.googlevideo.com
 rr1---sn-pmcg-bg0e.googlevideo.com
+rr1---sn-pmcg-bg0ez.googlevideo.com
 rr1---sn-pmcg-bg0k.googlevideo.com
 rr1---sn-pmcg-bg0r.googlevideo.com
 rr1---sn-pmcg-bg0s.googlevideo.com
@@ -535,6 +536,7 @@ rr12---sn-n8v7znze.googlevideo.com
 rr12---sn-n8v7znzl.googlevideo.com
 rr12---sn-pmcg-bg0d.googlevideo.com
 rr12---sn-pmcg-bg0e.googlevideo.com
+rr12---sn-pmcg-bg0ez.googlevideo.com
 rr12---sn-pmcg-bg0k.googlevideo.com
 rr12---sn-pmcg-bg0r.googlevideo.com
 rr12---sn-pmcg-bg0s.googlevideo.com
@@ -574,6 +576,7 @@ rr13---sn-n8v7znz7.googlevideo.com
 rr13---sn-n8v7znzl.googlevideo.com
 rr13---sn-pmcg-bg0d.googlevideo.com
 rr13---sn-pmcg-bg0e.googlevideo.com
+rr13---sn-pmcg-bg0ez.googlevideo.com
 rr13---sn-pmcg-bg0k.googlevideo.com
 rr13---sn-pmcg-bg0r.googlevideo.com
 rr13---sn-pmcg-bg0z.googlevideo.com
@@ -647,6 +650,7 @@ rr15---sn-n8v7znsz.googlevideo.com
 rr15---sn-n8v7znze.googlevideo.com
 rr15---sn-pmcg-bg0d.googlevideo.com
 rr15---sn-pmcg-bg0e.googlevideo.com
+rr15---sn-pmcg-bg0ez.googlevideo.com
 rr15---sn-pmcg-bg0k.googlevideo.com
 rr15---sn-pmcg-bg0r.googlevideo.com
 rr15---sn-pmcg-bg0s.googlevideo.com
@@ -687,6 +691,7 @@ rr16---sn-n8v7znze.googlevideo.com
 rr16---sn-n8v7znzl.googlevideo.com
 rr16---sn-pmcg-bg0d.googlevideo.com
 rr16---sn-pmcg-bg0e.googlevideo.com
+rr16---sn-pmcg-bg0ez.googlevideo.com
 rr16---sn-pmcg-bg0k.googlevideo.com
 rr16---sn-pmcg-bg0r.googlevideo.com
 rr16---sn-pmcg-bg0s.googlevideo.com
@@ -782,6 +787,7 @@ rr2---sn-2obg05-j3.googlevideo.com
 rr2---sn-2obg05-j5.googlevideo.com
 rr2---sn-2obg05-ja.googlevideo.com
 rr2---sn-2obg05-jh.googlevideo.com
+rr2---sn-2obg0c-qj.googlevideo.com
 rr2---sn-2obg0c-qq.googlevideo.com
 rr2---sn-2of5f5-5p.googlevideo.com
 rr2---sn-2ohpa5-5x.googlevideo.com
@@ -1125,6 +1131,7 @@ rr2---sn-p5qs7nzk.googlevideo.com
 rr2---sn-p5qs7nzr.googlevideo.com
 rr2---sn-p5qs7nzy.googlevideo.com
 rr2---sn-pmcg-bg0e.googlevideo.com
+rr2---sn-pmcg-bg0ez.googlevideo.com
 rr2---sn-pmcg-bg0k.googlevideo.com
 rr2---sn-pmcg-bg0r.googlevideo.com
 rr2---sn-pmcg-bg0s.googlevideo.com
@@ -2583,6 +2590,7 @@ rr8---sn-n8v7znz7.googlevideo.com
 rr8---sn-n8v7znzl.googlevideo.com
 rr8---sn-pmcg-bg0d.googlevideo.com
 rr8---sn-pmcg-bg0e.googlevideo.com
+rr8---sn-pmcg-bg0ez.googlevideo.com
 rr8---sn-pmcg-bg0k.googlevideo.com
 rr8---sn-pmcg-bg0r.googlevideo.com
 rr8---sn-pmcg-bg0s.googlevideo.com
@@ -2620,6 +2628,7 @@ rr9---sn-n8v7znz7.googlevideo.com
 rr9---sn-n8v7znzl.googlevideo.com
 rr9---sn-pmcg-bg0d.googlevideo.com
 rr9---sn-pmcg-bg0e.googlevideo.com
+rr9---sn-pmcg-bg0ez.googlevideo.com
 rr9---sn-pmcg-bg0k.googlevideo.com
 rr9---sn-pmcg-bg0r.googlevideo.com
 rr9---sn-pmcg-bg0s.googlevideo.com
