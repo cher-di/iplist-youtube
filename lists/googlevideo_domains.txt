@@ -389,6 +389,7 @@ rr1---sn-pmcg-bg0z.googlevideo.com
 rr1---sn-q0c7rn76.googlevideo.com
 rr1---sn-q0cedn7s.googlevideo.com
 rr1---sn-qjp5q5-55.googlevideo.com
+rr1---sn-qjp5q5-5b.googlevideo.com
 rr1---sn-qjp5q5-5q.googlevideo.com
 rr1---sn-qjp5q5-5x.googlevideo.com
 rr1---sn-u125g5-5i.googlevideo.com
@@ -409,6 +410,7 @@ rr1---sn-u1i5h5-5q.googlevideo.com
 rr1---sn-u1x1x5-5c.googlevideo.com
 rr1---sn-u1x1x5-5j.googlevideo.com
 rr1---sn-vgqskn66.googlevideo.com
+rr1---sn-vgqskn67.googlevideo.com
 rr1---sn-vgqskn6d.googlevideo.com
 rr1---sn-vgqskn6k.googlevideo.com
 rr1---sn-vgqskn6r.googlevideo.com
