@@ -311,6 +311,7 @@ rr1---sn-hpa7znsz.googlevideo.com
 rr1---sn-hpa7znz6.googlevideo.com
 rr1---sn-hpa7znzr.googlevideo.com
 rr1---sn-hpa7znzy.googlevideo.com
+rr1---sn-hpg5avbpj-n8ms.googlevideo.com
 rr1---sn-i5h7lner.googlevideo.com
 rr1---sn-i5h7lnl6.googlevideo.com
 rr1---sn-i5h7lnll.googlevideo.com
@@ -1121,6 +1122,7 @@ rr2---sn-hpa7znsz.googlevideo.com
 rr2---sn-hpa7znz6.googlevideo.com
 rr2---sn-hpa7znzr.googlevideo.com
 rr2---sn-hpa7znzy.googlevideo.com
+rr2---sn-hpg5avbpj-n8ms.googlevideo.com
 rr2---sn-i5h7lner.googlevideo.com
 rr2---sn-i5h7lnl6.googlevideo.com
 rr2---sn-i5h7lnll.googlevideo.com
